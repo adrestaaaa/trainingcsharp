@@ -1,0 +1,254 @@
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\ApiSample.dll.config
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\ApiSample.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\ApiSample.pdb
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.exe
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.exe.config
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.rsp
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.exe
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.exe.config
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.rsp
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.AppContext.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Console.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Net.Http.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.exe
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.exe.config
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.rsp
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Antlr3.Runtime.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Newtonsoft.Json.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Helpers.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Mvc.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Optimization.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Razor.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\WebGrease.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Newtonsoft.Json.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Helpers.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Mvc.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Optimization.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.Razor.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.AssemblyReference.cache
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.CoreCompileInputs.cache
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.CopyComplete
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.dll
+C:\Users\Arif\Documents\H8 - Full Stack OCBC (C#)\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.pdb
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\ApiSample.dll.config
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\ApiSample.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\ApiSample.pdb
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.exe
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.exe.config
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csc.rsp
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.exe
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.exe.config
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\csi.rsp
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Managed.Core.targets
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.AppContext.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Collections.Immutable.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Console.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Globalization.Calendars.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Net.Http.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Net.Sockets.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Reflection.Metadata.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.ValueTuple.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XmlDocument.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.exe
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.exe.config
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\vbc.rsp
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe.config
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Antlr3.Runtime.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Microsoft.Web.Infrastructure.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Newtonsoft.Json.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Net.Http.Formatting.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Helpers.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.WebHost.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Mvc.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Optimization.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Razor.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\WebGrease.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Newtonsoft.Json.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Net.Http.Formatting.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Helpers.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Http.WebHost.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Mvc.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Optimization.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.Razor.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Antlr3.Runtime.pdb
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.AssemblyReference.cache
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.CoreCompileInputs.cache
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.dll
+E:\_MyData\Hactive8\Full Stack OCBC (C#) Batch 2\Belajar\Sesi 08\ApiSample\ApiSample\obj\Debug\ApiSample.pdb
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\ApiSample.dll.config
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\ApiSample.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\ApiSample.pdb
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csc.exe
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csc.exe.config
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csc.rsp
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csi.exe
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csi.exe.config
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\csi.rsp
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.AppContext.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Console.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Net.Http.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\vbc.exe
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\vbc.exe.config
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\vbc.rsp
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Antlr3.Runtime.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Newtonsoft.Json.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Helpers.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Http.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Http.WebHost.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Mvc.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Optimization.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Razor.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\WebGrease.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Newtonsoft.Json.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Helpers.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Http.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Http.WebHost.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Mvc.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Optimization.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.Razor.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.AssemblyReference.cache
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.CoreCompileInputs.cache
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\obj\Debug\ApiSample.csproj.CopyComplete
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\obj\Debug\ApiSample.dll
+C:\Users\adenia.adiresta\Downloads\C# Training\LPS C#\Sesi 8\ApiSample\ApiSample\obj\Debug\ApiSample.pdb

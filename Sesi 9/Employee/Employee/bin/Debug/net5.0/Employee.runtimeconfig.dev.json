@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adenia.adiresta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adenia.adiresta\\.nuget\\packages"
+    ]
+  }
+}

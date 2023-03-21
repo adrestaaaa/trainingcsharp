@@ -1,0 +1,38 @@
+Training C# Sesi 3 - C# Programming
+
+1. Statement IF... untuk kondisi
+   Berkaitan dengan boolean > true or false
+2. Statement IF.. ELSE
+   sama seperti kondisi IF, namun untuk ELSE berati ada kondisi lainnya
+3. Statement IF..ELSE IF
+   Untuk yang memiliki beberapa kondisi
+   Jika kondisi terlalu banyak maka bisa menggunakan statement SWITCH
+4. Statement Switch Case
+   Untuk kondisi yang banyak
+5. Statement While 
+   Untuk mengeksekusi hasil yang secara terus menerus (Iterasi)
+6. Statement for
+Untuk looping yang terus menerus sampai kondisi terpenuhi
+==Project==
+Logika1-kondisi if (done logika1.cs)
+Logika2-kondisi if untuk nilai (done logika2.cs)
+Logika3-kondisi if untuk password dan username (done logika3.cs)
+Logika4-kondisi if untuk menentukan nilai - double/pecahan bisa (done logika4.cs)
+Logika5-Fungsi Switch Case - mengetahui bulan apa (done logika5.cs)
+Logika6-Fungsi While - looping nilai a(done logika6.cs)
+Logika7-Fugsi For - looping dengan for (done logika7.cs)
+Logika8-Fungsi Do While (done logika8.cs)
+
+==Tugas==
+1. Untuk kondisi if untuk nilai yang menggunakan inputan (done tgslogika2.cs)
+2. Untuk Switch case dengan inputan
+3. Logika 7 dengan inputan :
+    jika nilai = 12 hasilnya "Saya Belajar C#"
+    jika nilai = 15 hasilnya "15+1" > 16 -- terlooping ke 16, 15 tidak muncul
+    jika nilai = 18 hasilnya > di break
+4. Logika 8 dengan
+1. clone dari tugas 2 (nilai 0 s.d 100)
+2. dowhile (looping) :
+	- inputan nama
+  - inputan nilai
+Kalau masih failed karna tidak sesuai maka akan terlooping kembali

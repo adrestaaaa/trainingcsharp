@@ -1,0 +1,37 @@
+Training C# hari ke 4
+
+==Konsep Memori dalam Pemrograman==
+
+Ada 2 jenis pengalokasian memori :
+1. Stack : data disimpan dalam alamat memori secara berurutan (seperti menumpuk kardus)
+2. Heap : Data disimpan tanpa memperhatikan urutan alamat memori (seperti loker)
+
+1. Array
+kumpulan data dalam tipe yang sama
+array dideklarasikan dengan nama tipe datanya lalu kurung siku 
+ex : int [] aAngka
+
+2. Array Multidimensi
+merupakan array 2 dimensi
+bisa dianggap seperti tabel dengan baris dan kolom
+bisa untuk bikin yang bintang - bintang atau segitiga
+
+3. Array Jagged
+array dari beberapa array dimana panjang setiap array bisa berbeda 1 dengan yang lain
+
+4. Property Length
+memuat jumlah elemen yang dapat ditampung pada suatu array
+
+5. String
+merupakan sebuah array karakter
+String Immutable
+merupakan string yang perlu divariasi atau diubah
+
+Assignment : 
+1. Segitiga Alphabet
+2. Segitiga Angka
+3. Faktorial
+4. Reversed Number
+5. Number to String
+
+ada di tugas.cs

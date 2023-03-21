@@ -1,0 +1,61 @@
+Review materi sesi 1 
+1 Library - Daftar Pustaka
+    Kita harus selalu mendeklarasikan library saat membuat code
+    fungsi, method, object, const(Kalau menggunakan const nilai nya tidak bisa berubah) dan variabel 
+2 Class
+3 Fungsi / Method
+4 Tipe Data 
+5 Operator
+6 Variabel 
+    Mempelajari terkait penggunaan variabel saat membuat code di c#
+    Untuk pemberian variabel lebih enak depannya menggunakan huruf kecil
+    tidak boleh ada spasi di penamaan variabel
+    awalan gaboleh angka
+Project #1
+Membuat perhitungan luas persegi (done luaspersegi.cs)
+
+Tipe data boolean
+Untuk true - false
+
+Project #2
+Memastikan nilai apakah true or false - dengan boolean (done boolean.cs)
+
+Tipe Data String
+Pengolahan karakter
+
+Project #3 
+PendaftaranPenduduk sederhana - Pakai string(done string.cs)
+
+== Tugas 1 ==
+Input nama customer
+membuat input data produk makanan
+dengan field :
+nama  produk (mie ayam, bakso, sate, dll)
+jumlah produk (10, 5, 8, dst)
+harga produk
+Output
+Jumlah semua produk
+total harga semua produk
+(done tugas2.cs)
+===========================
+Hitung Nilai 
+1. Operator aritmatika
+hitungnilai.cs done
+2. Operator Penugasan
+hitungnilai2.cs done
+3. Operator Perbandingan
+hitungnilai3.cs done
+4. Result - untuk kondisi benar atau salah
+hitungnilai4.cs done
+
+== Tugas 2 ==
+
+Buat tugas menentukan nilai dan huruf mutu
+
+HURUF MUTU A 100 s.d 80 : "Sangat Baik"
+HURUF MUTU B 79 s.d 70 : "Baik"
+HURUF MUTU C 69 s.d 60 : "Cukup"
+HURUF MUTU D 59 s.d 40 : "Kurang"
+HURUF MUTU E 39 s.d 0 : "Sangat Kurang"
+
+Done tugas2b.cs

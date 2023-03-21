@@ -1,0 +1,10 @@
+Summary sesi 1 C#   
+
+Pengenalan C#
+Langkah :
+1. Instalasi VS Code
+2. Download kelengkapan untuk C# (.net , mono, dll) 
+note : .netnya di downgrade jadi 5.0
+3. Instalasi ekstensi (C#, Code runner, C# Extention)
+4. Bikin Hello world (done di helloworld.cs)
+5. Tugas bikin biodata dengan fungsi readline (done di bio.cs)

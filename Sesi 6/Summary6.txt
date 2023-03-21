@@ -1,0 +1,94 @@
+Training C# Sesi 6
+Membuat database
+Download tools yang dibutuhkan :
+
+
+Membuat database
+membuat query
+membuat CRUD, View, storeprocedure, dll
+1. Database 
+    Beberapa tabel (management data)
+    field
+    primary key (pk) dan foreign key(fk)
+    increment
+    tipe data(varchar, char, date, num, enum, big int, dll)
+    null atau not null
+    created_at , updated_at, deleted_at (waktu)
+    relasi
+studi kasus
+---
+1. membuat database > db_belajar
+2. membuat tabel siswa > tb_siswa
+    nis     nama      alamat    tgl_lahir     jkelamin
+    111     arif      lampung   2022-02-02      Boy
+    
+Ketentuan type data Enum / Char / Varchar
+---
+> jkelamin : varchar (1) / char(1) > P/L
+> jkelamin : enum ("P","L") / enum ("Perempuan","Laki-Laki") 
+  - jika diluar dari data yg di set (dari enum)
+  - tidak bisa di input
+
+membuat tabel menggunakan query
+---
+CREATE TABLE `tb_buku` (
+  id_buku int NOT NULL AUTO_INCREMENT,
+  nama_buku varchar(50) NOT NULL,
+  tgl_terbit date NOT NULL,
+  penerbit varchar(50) NOT NULL,
+  tahun char(4) CHARACTER NOT NULL,
+  desc text NOT NULL,
+  PRIMARY KEY (`id_buku`)
+)
+
+note : desc di alter menjadi deskripsi
+
+membuat tabel menggunakan query > less code (sample)
+---
+create table tb_buku (
+  idbuku int not null auto_increment,
+  namabuku varchar(50) not null,
+  primary key ('idbuku')
+)
+
+insert data di tabel buku
+---
+insert into tb_buku(nama_buku, tgl_terbit, penerbit, tahun, desc) 
+values('bahasa indonesia','2022-01-01', 'yudistira','2010','belajar buku bahasa indonesia');
+
+insert data lebih dari 1 record (3 record)
+---
+INSERT INTO `tb_user` (`id_user`, `nama`, `email`, `jkelamin`) VALUES
+(1,	'arif',	'a@gmail.com',	'L'),
+(2,	'andi',	'an@gmail.com',	'L'),
+(4,	'anggi',	'anggi@gmail.com',	'P');
+
+
+sql mode untuk group by (include all columns)
+---
+SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+referensi : https://stackoverflow.com/questions/41887460/select-list-is-not-in-group-by-clause-and-contains-nonaggregated-column-inc
+
+pembalaran query dasar
+---
+1. tampilkan semua data
+	select * from tb_buku;
+2. tampilkan nama_buku dan penerbit;
+	select nama_buku, penerbit from tb_buku;
+3. penggunaan alias
+	select nama_buku as buku, penerbit from tb_buku;
+4. penggunaan limit
+  select nama_buku as buku, penerbit from tb_buku b
+  limit 1;
+5. penggunaan order by (filter asc, desc)
+  select * from tb_buku
+  order by id_buku DESC
+6. penggunaan group by dan order
+  select * from tb_buku
+  group by penerbit
+  order by id_buku DESC
+7. penggunaan counting data dgn group by dan order
+  select count(id_buku) as jml_buku, penerbit from tb_buku
+  group by penerbit
+  order by penerbit ASC
+  

@@ -1,0 +1,44 @@
+Object Oriented Programming - OOP
+
+1. Class, merupakan pengelompokkan. 
+    Contoh : Class Smartphone dan Laptop2. 
+2. Objek, merupakan isi dari suatu class dan tentunya mempunyai ciri unik, 
+    contoh :    Class Smartphone : Samsung, iPhone, XiaoMi    
+                Class Laptop : Asus, Lenovo, Acer3. 
+3. Property, perlengkapan yang dimiliki oleh sebuah objek, 
+    contoh : Samsung memiliki properti : Warna,Berat, Tinggi, dll. 
+    Untuk mendetailkan objek secara jelas.
+4. Method, suatu aksi yang bisa dilakukan oleh suatu objek, contoh : chatting, sosial media, online shopping dll..
+
+1. Encapsulation
+metode untuk menyembunyikan elemen tertentu dari sebuah class sehingga tidak dapat diakses penuh
+atau full control oleh kelas lain
+Ada beberapa access identifier yang sering digunakan diantaranya adalah :
+a. Public , berarti bahwa anggota class tersebut (attribut/method/property) 
+   dapat diakses oleh siapa saja atau class yang lain. 
+b. Private, berarti bahwa anggota class tersebut hanya boleh diakses oleh class
+   itu sendiri 
+c. Protected, berarti bahwa anggota class tersebut hanya boleh diakses oleh dirinya 
+   sendiri dan Class – Class turunanya. 
+
+2. Inheritance 
+Dikenal dengan Pewarisan sifat yang artinya cara untuk membentuk kelas baru 
+menggunakan kelas yang telah ditetapkan
+
+3. Polimorfisme
+Polimorfisme merupakan kemampuan suatu objek untuk mengungkapkan banyak hal melalui satu cara yang sama
+
+
+Note : Untuk terminal saat mau running - dotnet new console 
+       Kemudian dotnet run
+
+kisi-kisi sesi 06 :(Didownload !)
+- xampp 7.4
+- laragon
+- sql server
+
+tool database :
+	- adminer
+  - sql yog
+  - dbeaver
+  - heidesql

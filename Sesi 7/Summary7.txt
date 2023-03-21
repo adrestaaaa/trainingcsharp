@@ -1,0 +1,15 @@
+1. install xampp 7.4 (portable/installer > rekomedasi installer)
+2. install sqlyog (tools management database)
+3. download adminer
+4. visual studio community 2019
+  - install asp.net and web development
+  - install .NET desktop development
+  - install desktop development with C++
+  - install .NET cross-platform development
+  - install Azure development
+5. Instal SQL Server
+6. Install SSMS (sql server management studio)
+7. Install DBever
+
+- kendala
+	- tidak bisa login sql server di SSMS

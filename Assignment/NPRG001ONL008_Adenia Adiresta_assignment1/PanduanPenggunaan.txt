@@ -1,0 +1,10 @@
+==Panduan Penggunaan==
+Dibuat menjadi sebuah menu yang terbagi menjadi 5 pilihan.
+Saat dimasukkan angka dari 1 - 5 maka akan muncul jawaban dari tugas yang diberikan
+
+catatan : untuk soal mengubah angka menjadi kata (soal no 5) hanya bisa sampai angka 9. 
+
+==Biodata Peserta==
+    Nama Lengkap    : Adenia Adiresta
+    Nomor Peserta   : NPRG001ONL008
+    Alamat          : Jakarta Selatan 
